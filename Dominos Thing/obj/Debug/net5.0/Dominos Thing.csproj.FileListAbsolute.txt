@@ -1,0 +1,21 @@
+C:\Users\Student\source\repos\Dominos Thing\obj\Debug\net5.0\Dominos Thing.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Dominos Thing\obj\Debug\net5.0\Dominos Thing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Dominos Thing\obj\Debug\net5.0\Dominos Thing.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Dominos Thing\obj\Debug\net5.0\Dominos Thing.AssemblyInfo.cs
+C:\Users\Student\source\repos\Dominos Thing\obj\Debug\net5.0\Dominos Thing.csproj.CoreCompileInputs.cache
+C:\Users\jwood\Downloads\Dominos Thing-20230529T034641Z-001\Dominos Thing\obj\Debug\net5.0\Dominos Thing.csproj.AssemblyReference.cache
+C:\Users\jwood\Downloads\Dominos Thing-20230529T034641Z-001\Dominos Thing\obj\Debug\net5.0\Dominos Thing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jwood\Downloads\Dominos Thing-20230529T034641Z-001\Dominos Thing\obj\Debug\net5.0\Dominos Thing.AssemblyInfoInputs.cache
+C:\Users\jwood\Downloads\Dominos Thing-20230529T034641Z-001\Dominos Thing\obj\Debug\net5.0\Dominos Thing.AssemblyInfo.cs
+C:\Users\jwood\Downloads\Dominos Thing-20230529T034641Z-001\Dominos Thing\obj\Debug\net5.0\Dominos Thing.csproj.CoreCompileInputs.cache
+C:\Users\jwood\Downloads\Dominos Thing-20230529T034641Z-001\Dominos Thing\bin\Debug\net5.0\Dominos Thing.exe
+C:\Users\jwood\Downloads\Dominos Thing-20230529T034641Z-001\Dominos Thing\bin\Debug\net5.0\Dominos Thing.deps.json
+C:\Users\jwood\Downloads\Dominos Thing-20230529T034641Z-001\Dominos Thing\bin\Debug\net5.0\Dominos Thing.runtimeconfig.json
+C:\Users\jwood\Downloads\Dominos Thing-20230529T034641Z-001\Dominos Thing\bin\Debug\net5.0\Dominos Thing.runtimeconfig.dev.json
+C:\Users\jwood\Downloads\Dominos Thing-20230529T034641Z-001\Dominos Thing\bin\Debug\net5.0\Dominos Thing.dll
+C:\Users\jwood\Downloads\Dominos Thing-20230529T034641Z-001\Dominos Thing\bin\Debug\net5.0\ref\Dominos Thing.dll
+C:\Users\jwood\Downloads\Dominos Thing-20230529T034641Z-001\Dominos Thing\bin\Debug\net5.0\Dominos Thing.pdb
+C:\Users\jwood\Downloads\Dominos Thing-20230529T034641Z-001\Dominos Thing\obj\Debug\net5.0\Dominos Thing.dll
+C:\Users\jwood\Downloads\Dominos Thing-20230529T034641Z-001\Dominos Thing\obj\Debug\net5.0\ref\Dominos Thing.dll
+C:\Users\jwood\Downloads\Dominos Thing-20230529T034641Z-001\Dominos Thing\obj\Debug\net5.0\Dominos Thing.pdb
+C:\Users\jwood\Downloads\Dominos Thing-20230529T034641Z-001\Dominos Thing\obj\Debug\net5.0\Dominos Thing.genruntimeconfig.cache
